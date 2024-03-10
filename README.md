@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=leer." alt="Typing SVG">
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Colibri&weight=900&duration=1000&pause=100&color=30AEFF&multiline=true&random=false&width=500&height=490&lines=Vergib+mir%2C+Gott%2C+den+Seufzer+der+M%C3%BCdigkeit.;Ich+bin+m%C3%BCde;Von+Traurigkeit%2C+von+Liebe%2C+von+Mitleid%2C;von+hundert+Wegen.;%E3%85%A4;Am+Meer%2C+am+Sandstrand;bin+ich+gefallen;und+warte+auf+die+unvermeidliche+Flut;Ich+bin+des+Wartens+m%C3%BCde.;%E3%85%A4;%22Doch+zeige+mir+G%C3%BCte+%C3%BCber+alle+Ma%C3%9Fen.;Und+zu+dieser+Stunde;Lass+mich+den+Abendstern+sehen;Zum+letzten+Mal+sehen.;%E3%85%A4;Zu+seinem+Strahl%2C+immer+mein+Liebling%2C;werde+ich+sagen%3A+%22Es+tut+mir+leid%22;Ich+ergebe+mich+dem+Unvermeidlichen%2C;Ich+schlafe+auf+der+Stra%C3%9Fe+ein.;%E3%85%A4;%E3%85%A4.;%E3%85%A4." alt="Typing SVG" /></a>
